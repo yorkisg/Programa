@@ -56,7 +56,7 @@ $resultado_unico = $gsent_unico->fetch();
 
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.0/css/all.css">
 
-	   <title> Hola estoy probando algo </title>
+	   <title> Hola estoy probando </title>
 
 	  </head>
 
@@ -68,7 +68,7 @@ $resultado_unico = $gsent_unico->fetch();
 
 		<h1> 
 
-
+			hola
 
 		</h1>
 
