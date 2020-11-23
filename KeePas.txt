@@ -1,0 +1,95 @@
+MisDatos
+Title	User Name	Password	URL	Notes
+
+
+Bacula
+Title	User Name	Password	URL	Notes
+Bacula	 	RZyUd58X7DmWfpEn2DmW	bacula.alimentos.int/cgi-bin/bweb/bweb.pl?	 
+
+
+Cloudmark
+Title	User Name	Password	URL	Notes
+Reputacion de Cloudmark	 	 	https://csi.cloudmark.com/en/reset/?ip=190.121.232.13	 
+
+
+Zabbix
+Title	User Name	Password	URL	Notes
+Usuario	ycolmenarez	Ycolmenarez2020	zabbix.servers.int	 
+
+
+Nagios
+Title	User Name	Password	URL	Notes
+Usuario	nagiosadmin	nagiosadmin	 	 
+
+
+Imsva
+Title	User Name	Password	URL	Notes
+Usuario	ycolmenarez	Ycolmenarez2020	https://imsva.servers.int:8445/loginPage.imss	 
+
+
+Base de Datos
+Title	User Name	Password	URL	Notes
+Postgresql	ycolmenarez	yc4lm2n1r1z	 	 
+MysQL Workbench	ycolmenarez	Yc4lm2n1r1z.	 	 
+
+
+XSales - Ambiente Desarrollo XSales - 172.17.1.202
+Title	User Name	Password	URL	Notes
+Usuario	ycolmenarez	yc2020**	172.17.1.202	Windows Server 2008 R2. Ambiente donde estan alojadas las BDs de XSales en Sql Server 2008 R2
+
+
+XSales - Ambiente Calidad XSales - 172.17.1.187
+Title	User Name	Password	URL	Notes
+Usuario	ibm-1	Syst3m@Win2k_Srv	172.17.1.187	Windows Server 2008 R2. Ambiente donde estan alojadas las BDs de XSales en Sql Server 2008 R2
+
+
+XSales - Ambiente Productivo XSales - 172.17.1.183
+Title	User Name	Password	URL	Notes
+Usuario	ibm-1	Syst3m@Win2k_Srv	172.17.1.183	Windows Server 2008 R2. Ambiente donde estan alojadas las BDs de XSales en Sql Server 2008 R2
+
+
+SPI - Ambiente de Desarrollo SPI - 172.17.1.206
+Title	User Name	Password	URL	Notes
+SPI - Desarrollo	ibm-1	Syst3m@Win2k_Srv2019	172.17.1.206	Syst3m@Win2k_Srv2019
+
+
+SPI - Ambiente de Calidad SPI - 172.17.1.189
+Title	User Name	Password	URL	Notes
+SPI - Calidad	ibm-1	Syst3m@Win2k_Srv	172.17.1.189	
+
+Syst3m@Win2k_Srv
+
+
+SPI - Oracle SQL Developer - SPI
+Title	User Name	Password	URL	Notes
+SPI - CALIDAD	INFOCENT	QAINFOCENT	 	Usuario genérico de SPI CALIDAD
+SPI - CALIDAD	YCOLMENAREZ	ycolmenarez2020	 	Usuario personalizado de SPI CALIDAD
+SPI - PRODUCTIVO	YCOLMENAREZ	TUNAL2020	 	Usuario personalizado de SPI PRODUCTIVO
+SPI - PRODUCTIVO2	INFOCENT	Inf0c3nt#SPI1	 	Usuario personalizado de SPI PRODUCTIVO
+
+
+Indicador de Prueba - Global
+Title	User Name	Password	URL	Notes
+Indicador Global - Web	 	 	172.17.4.29:3000	Interfaz Web
+Indicador Global - Rev	 	 	172.17.4.29:10001	Interfaz Revolution
+
+
+SAP
+Title	User Name	Password	URL	Notes
+Usuario SAP	ELTUNSIST025	Ycolmenarez2020*	 	Mandante Desarrollo 220
+Mandante Calidad 500
+
+
+Mantis
+Title	User Name	Password	URL	Notes
+Usuario	SERVI_YCOLMENAREZ	Ycolmenarez2020*	 	 
+
+
+Servidores
+Title	User Name	Password	URL	Notes
+Usuario	ycolmenarez	12345678	 	Usuario y clave de servidores
+
+
+Pentaho
+Title	User Name	Password	URL	Notes
+Usuario	ibm-1	Syst3m@Win2k_Srv	172.17.1.168	 
