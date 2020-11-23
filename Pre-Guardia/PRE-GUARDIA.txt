@@ -1,0 +1,39 @@
+clear
+
+PRE-GUARDIA Servidor Roble (172.17.1.5)
+
+	1 - Ir a directorio /purebackup/offline
+	    Nota: borrar el respaldo más antiguo para garantizarel espacio en disco. (los que estan en morado) (MARTES)
+
+
+	2 - Ir a directorio /nasbackup/roble
+	    Nota: mantener los 15 últimos días de respaldo. Lo demás eliminar (VIERNES)
+
+
+	3 - Checkear los espacios en cada servidor bacula y notificar para que realicen respaldo y luego eliminar. (VIERNES)
+
+			bacula.tunal.int 
+			bacula.alimentos.int (172.17.1.144)
+            		bacula.elpazo.int (172.21.1.144) 
+            		bacula.alimex.int (172.22.1.144) 
+            		bacula.alc.int
+            		bacula.plantabebida.int (172.19.1.144) 
+            		bacula.zuliana.int (172.24.1.135)
+
+
+        4 - BORRAR ORDENES DE SPOOL SAP (DOMINGO)
+
+		- R3P Cardón
+             		-> se38 -> programa : RSPO0041
+
+        	- MDTE : 500
+        
+			* marcar ordenes spool obsoletas (Tod)
+	  		  Antiguedad minima en días = 1
+			* marcar Ord.s(Tod) acabadas c/ant.min
+			* marcar Ord.SPOOL (Tod). co antig . min
+
+
+
+Laptop guardia
+git04249 : S3rvidores2018
