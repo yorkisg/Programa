@@ -62,7 +62,7 @@ Syst3m@Win2k_Srv
 
 SPI - Oracle SQL Developer - SPI
 Title	User Name	Password	URL	Notes
-SPI - CALIDAD	INFOCENT	QAINFOCENT	 	Usuario genérico de SPI CALIDAD
+SPI - CALIDAD	INFOCENT	QAINFOCENT	 	Usuario genÃ©rico de SPI CALIDAD
 SPI - CALIDAD	YCOLMENAREZ	ycolmenarez2020	 	Usuario personalizado de SPI CALIDAD
 SPI - PRODUCTIVO	YCOLMENAREZ	TUNAL2020	 	Usuario personalizado de SPI PRODUCTIVO
 SPI - PRODUCTIVO2	INFOCENT	Inf0c3nt#SPI1	 	Usuario personalizado de SPI PRODUCTIVO
@@ -93,3 +93,6 @@ Usuario	ycolmenarez	12345678	 	Usuario y clave de servidores
 Pentaho
 Title	User Name	Password	URL	Notes
 Usuario	ibm-1	Syst3m@Win2k_Srv	172.17.1.168	 
+
+USUARIO: SPIUSER
+PASSWORD: N0m1n@SPI_ 
