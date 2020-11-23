@@ -94,5 +94,15 @@ Pentaho
 Title	User Name	Password	URL	Notes
 Usuario	ibm-1	Syst3m@Win2k_Srv	172.17.1.168	 
 
+**************************************
+
 USUARIO: SPIUSER
 PASSWORD: N0m1n@SPI_ 
+BD: SPI
+
+USUARIO: IBM-1
+PASSWORD: 
+
+USUARIO: SPIUSER
+PASSWORD: N0m1n@SPI_
+
