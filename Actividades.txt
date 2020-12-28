@@ -1,0 +1,19 @@
+
+- Actualizar inventario de servidores de escritorio remoto.
+
+- Mejorar querys de reportes de global.
+
+- Actualizacion SPI Nomina - Wilfly.
+
+- Mantenimiento y monitoreo a servidor roble.
+
+- Mantenimiento y monitoreo a SAP MIP
+
+- Verificar Fra y espacios de disto en SPI1 - 172.17.1.191 
+
+R3DK940843
+R3DK940870
+R3DK940878
+
+-- verificar redo logs -- 
+https://serverfault.com/questions/118206/why-oracle-database-generates-lots-of-archived-log-per-day-when-there-is-a-small/118507
